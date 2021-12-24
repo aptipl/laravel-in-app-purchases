@@ -63,17 +63,8 @@
     },
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "aptipl/google-play-billing",
-                "version": "0.1.0",
-                "type": "package",
-                "source": {
-                    "url": "git@github.com:aptipl/google-play-billing.git",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
+            "type": "vcs",
+            "url": "git@github.com:aptipl/google-play-billing.git",
         }
     ]
 }
