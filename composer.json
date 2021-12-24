@@ -64,7 +64,7 @@
     "repositories": [
         {
             "type": "path",
-            "url": "../../packages/imdhemy/google-play-billing"
+            "url": "../../../packages/imdhemy/google-play-billing"
         }
     ]
 }
