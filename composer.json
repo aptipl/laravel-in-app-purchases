@@ -1,5 +1,5 @@
 {
-    "name": "aptipl/laravel-purchases",
+    "name": "imdhemy/laravel-purchases",
     "description": "Laravel receipt validator for Google Play",
     "keywords": [
         "laravel-in-app-purchases",
@@ -21,7 +21,7 @@
         "php": ">=7.1",
         "ext-json": "*",
         "imdhemy/appstore-iap": "^0.3",
-        "aptipl/google-play-billing": "*",
+        "imdhemy/google-play-billing": "*",
         "nesbot/carbon": "^2.41"
     },
     "require-dev": {
@@ -63,8 +63,8 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "git@github.com:aptipl/google-play-billing.git"
+            "type": "path",
+            "url": "../../packages/imdhemy/google-play-billing"
         }
     ]
 }
