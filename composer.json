@@ -64,7 +64,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:aptipl/google-play-billing.git",
+            "url": "git@github.com:aptipl/google-play-billing.git"
         }
     ]
 }
