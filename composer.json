@@ -21,7 +21,7 @@
         "php": ">=7.1",
         "ext-json": "*",
         "imdhemy/appstore-iap": "^0.3",
-        "imdhemy/google-play-billing": "*",
+        "imdhemy/google-play-billing": "dev-master",
         "nesbot/carbon": "^2.41"
     },
     "require-dev": {
